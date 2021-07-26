@@ -1,2 +1,3 @@
-# Hello_World
-This repo is for testing purpose
+# Hello_World v2
+This repo is for testing purposes.
+This is variant 2.
